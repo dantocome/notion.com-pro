@@ -79,4 +79,5 @@ nav{
 .lag{
     display: flex;
     gap: 1em;
+    margin-top: 0.5em;
 }
