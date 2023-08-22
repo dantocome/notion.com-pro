@@ -18,7 +18,7 @@ header{
 }
 nav{
     display: flex;
-    gap: 20em;
+    
 }
 .first-nav{
     display: flex;
@@ -38,13 +38,13 @@ nav{
 }
 .second-nav{
     display: flex;
-    gap: 2.5em;
-    border: 1px solid white;   
+    gap: 2em;
+    border: 1px solid white; 
+    margin-left: -2em;  
 }
 .second-nav li{
     margin-top: 1.9em;
-    margin-left: -2em;
-    width: 8em;
+    
 }
 .second-nav li a{
     color: rgb(80, 77, 77);
@@ -63,11 +63,15 @@ nav{
 }
 .btn{
     background-color: black;
-    width: 9em;
+    width: 9.5em;
     height: 2.2em;
     color: rgb(245, 240, 240);
     font-size: 0.8em;
     font-weight: 700;
     border-radius: 5px;
-    margin-top: 1.8em;
+    margin-top: 4em;
+}
+.lag{
+    display: flex;
+    gap: 1em;
 }
