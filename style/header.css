@@ -24,7 +24,7 @@ nav{
 .first-nav{
     display: flex;
     gap: 0.7em;
-    margin-left: 2em;
+    margin-left: -2em;
     
 
     
