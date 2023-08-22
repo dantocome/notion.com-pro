@@ -38,8 +38,10 @@ nav{
 .second-nav{
     display: flex;
     gap: 3em;
-
-    
+    border: 1px solid white;   
+}
+.second-nav li{
+    margin-top: 1em;
 }
 .second-nav li a{
     color: gray;
@@ -48,8 +50,8 @@ nav{
 }
 .notion-id{
     width: 8em;
-    height: 4.5em;
-    margin-top: 0.4em;
+    height: 4em;
+    margin-top: 1em;
     
  
 }
