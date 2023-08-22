@@ -43,6 +43,8 @@ nav{
 }
 .second-nav li{
     margin-top: 1.9em;
+    margin-left: -2em;
+    width: 8em;
 }
 .second-nav li a{
     color: rgb(80, 77, 77);
