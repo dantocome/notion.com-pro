@@ -13,6 +13,7 @@ header{
 .navis{
     display: flex;
 
+
 }
 nav{
     display: flex;
@@ -20,8 +21,8 @@ nav{
 }
 .first-nav{
     display: flex;
-    padding: 1.5em 1.5em ;
     gap: 1em;
+    margin-top: 1.5em;
 }
 .first-nav li a{
     color: gray;
@@ -30,9 +31,9 @@ nav{
 }
 .second-nav{
     display: flex;
-    padding: 1.5em 1.5em;
     gap: 3em;
     margin-left: -1em;
+    margin-top: 1.5em;
     
 }
 .second-nav li a{
@@ -43,6 +44,6 @@ nav{
 .notion-id{
     width: 8em;
     height: 4.5em;
-    margin: 1em;
+    margin-top: 0.4em;
  
 }
