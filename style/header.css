@@ -29,7 +29,7 @@ nav{
 .first-nav li a{
     color: gray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.2em;
+    font-size: 1em;
     
 }
 .first-nav li{
@@ -46,7 +46,7 @@ nav{
 .second-nav li a{
     color: gray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.1em;
+    font-size: 1em;
     
 }
 .notion-id{
