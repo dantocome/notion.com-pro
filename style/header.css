@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+header{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    height: 5em;
+    top: 0;
+}
+.navis{
+    display: flex;
+
+}
+nav{
+    display: flex;
+    gap: 20em;
+}
+.first-nav{
+    display: flex;
+    padding: 1.5em 1.5em ;
+    gap: 1em;
+}
+.first-nav li a{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+}
+.second-nav{
+    display: flex;
+    padding: 1.5em 1.5em;
+    gap: 3em;
+    margin-left: -1em;
+    
+}
+.second-nav li a{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+}
+.notion-id{
+    width: 8em;
+    height: 4.5em;
+    margin: 1em;
+ 
+}
