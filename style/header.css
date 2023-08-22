@@ -17,7 +17,7 @@ header{
 }
 nav{
     display: flex;
-    gap: 20em;
+    gap: 18em;
 }
 .first-nav{
     display: flex;
@@ -47,6 +47,7 @@ nav{
     color: gray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1em;
+    
 }
 .notion-id{
     width: 8em;
