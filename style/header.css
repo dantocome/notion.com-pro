@@ -43,7 +43,7 @@ nav{
 .second-nav{
     display: flex;
     gap: 2em;
-    margin-left: -2em;  
+    margin-left: 4em;  
 }
 .second-nav li{
     margin-top: 1.8em;
