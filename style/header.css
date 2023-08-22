@@ -3,7 +3,7 @@ body{
 }
 header{
     display: flex;
-    background-color: black;
+    background-color: white;
     align-items: center;
     justify-content: center;
     position: sticky;
@@ -28,7 +28,7 @@ nav{
     
 }
 .first-nav li a{
-    color: gray;
+    color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1em;
     
@@ -38,16 +38,17 @@ nav{
 }
 .second-nav{
     display: flex;
-    gap: 3em;
+    gap: 2.5em;
     border: 1px solid white;   
 }
 .second-nav li{
     margin-top: 1em;
 }
 .second-nav li a{
-    color: gray;
+    color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1em;
+    font-size: 1.1em;
+    
     
 }
 .notion-id{
