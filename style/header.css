@@ -14,10 +14,11 @@ header{
     display: flex;
 
 
+
 }
 nav{
     display: flex;
-    gap: 18em;
+    gap: 25em;
 }
 .first-nav{
     display: flex;
