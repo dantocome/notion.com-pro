@@ -18,7 +18,7 @@ header{
 }
 nav{
     display: flex;
-    gap: 23em;
+    gap: 20em;
 }
 .first-nav{
     display: flex;
